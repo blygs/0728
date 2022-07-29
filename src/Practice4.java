@@ -22,6 +22,7 @@
 import java.util.Scanner;
 public class Practice4 {
 	public static void main(String[] args) {
+		// 문제 1.
 		// A : 65  Z : 90
 		// a : 97
 		int cnt = 0;
@@ -39,6 +40,8 @@ public class Practice4 {
 		}
 		
 		System.out.println();
+		
+		// 문제 2.
 
 		Scanner sc = new Scanner(System.in);
 		System.out.print("신장을 입력해 주세요(cm) : ");
